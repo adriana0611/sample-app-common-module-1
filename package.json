@@ -1,5 +1,5 @@
 {
-  "name": "sample-app-common-module-1",
+  "name": "adriana-sample-app-common-module-1",
   "version": "0.1.0",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.17.0",
